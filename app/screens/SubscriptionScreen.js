@@ -1,11 +1,13 @@
 import React from 'react'
 import { View, StyleSheet } from 'react-native';
 
+import Screen from "../components/Screen"
+import Header from "../components/Header"
 const SubscriptionScreen = () => {
     return (
-        <View style={styles.container} >
-
-        </View>
+        <Screen style={styles.container} >
+            <Header />
+        </Screen>
     );
 }
 

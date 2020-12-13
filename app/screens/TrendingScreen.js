@@ -1,11 +1,15 @@
 import React from 'react'
-import { View, StyleSheet } from 'react-native';
+import { StyleSheet } from 'react-native';
+
+import Screen from "../components/Screen"
+import Header from "../components/Header"
 
 const TrendingScreen = () => {
     return (
-        <View style={styles.container} >
+        <Screen style={styles.container} >
+            <Header />
+        </Screen>
 
-        </View>
     );
 }
 

@@ -1,11 +1,12 @@
 import React from 'react'
 import { View, StyleSheet } from 'react-native';
-
+import Header from "../components/Header"
+import Screen from "../components/Screen"
 const LibraryScreen = () => {
     return (
-        <View style={styles.container} >
-
-        </View>
+        <Screen style={styles.container} >
+            <Header />
+        </Screen>
     );
 }
 
