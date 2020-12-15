@@ -11,8 +11,8 @@
 
 |       |        |
 |------------|------------|
-|<img src="screenshots/playerscreen.jpg" height="600" width="300"> | <img src="screenshots/homescreen.jpg" height="600" width="300">
-|
+|<img src="screenshots/homescreen.jpg" height="600" width="300"> | <img src="screenshots/playerscreen.jpg" height="600" width="300">
+
 
 |       |        |
 |------------|------------|
