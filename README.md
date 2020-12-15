@@ -4,19 +4,19 @@
 - Search Functionality
 - Homepage [Currently It is Showing the results searech for "React Native]
 - A normal player Page 
+- Note:- Channel Art,View Count and Date are Hard Coded !
 
 ## Preview 📸
 
 
 |       |        |
 |------------|------------|
-|<img src="screenshots/playerscreen.jpg" width="400"> | <img src="screenshots/homescreen.jpg" width="400">
+|<img src="screenshots/playerscreen.jpg" height="600" width="300"> | <img src="screenshots/homescreen.jpg" height="600" width="300">
 |
 
 |       |        |
 |------------|------------|
-|<img src="screenshots/searchscreen-1.jpg" width="400"> | <img src="screenshots/searchscreen.jpg" width="400">
-|
+|<img src="screenshots/searchscreen-1.jpg" height="600" width="300"> | <img src="screenshots/searchscreen.jpg" height="600" width="300">
 
 ## Tools :wrench:
 
